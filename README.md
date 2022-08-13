@@ -34,8 +34,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [Repositorio en GitHub](https://your-solution-url.com)
-- URL del sitio en vivo: [Sitio en Netlify](https://your-live-site-url.com)
+- URL de la solución: [Repositorio en GitHub](https://github.com/jean266/FAQ_acordion)
+- URL del sitio en vivo: [Sitio en Netlify](https://lovely-wisp-d7175b.netlify.app/)
 
 ## Mi proceso
 
